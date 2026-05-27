@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevDash.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+617eb77be75a739a226cf971f9c9acb541956ba5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9330a3df25fc1f20e40468504aee5024513e508a")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevDash.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevDash.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
